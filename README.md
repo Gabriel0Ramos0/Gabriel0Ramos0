@@ -22,9 +22,9 @@
 
 <div align="center">
  
-  <a href="https://www.instagram.com/seu-instagram/" ><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" /><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/seu-username-facebook/" ><img alt="Icone Facebook" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/gabriel.ramos.correa?igsh=cGRpOXp1NjZ6dGFx" ><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-ramos-18531a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100013524600214" ><img alt="Icone Facebook" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 </div>
 
