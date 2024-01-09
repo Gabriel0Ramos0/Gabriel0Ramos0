@@ -6,7 +6,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel0Ramos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0Ramos0&layout=compact&langs_count=6&theme=midnight-purple" height="160" alt="languages graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Gabriel0Ramos0&bg_color=000000" height="160" alt="languages graph" />
+
 </div>
 
 ##
