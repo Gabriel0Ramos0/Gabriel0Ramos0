@@ -31,7 +31,7 @@
 
 <div align="center">
 
- [![Sala de Palácio](https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif)](https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif)
+ <img src="https://camo.githubusercontent.com/62fe53c95828fe707e94a19ec3ca053b20d6aeebab3de4fafda8e4ea651c5736/68747470733a2f2f657069636f7270672e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031392f30332f53616c612d64652d70616c25433325413163696f2e676966" alt="Sala de Palácio" data-canonical-src="https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif" style="max-width: 100%;display: inline-block;width: 300px;" data-target="animated-image.originalImage">
 
 ## Classe: Desenvolvedor de Códigos
 </div>
