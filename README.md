@@ -31,5 +31,7 @@
 
 <div align="center">
 
+ [![Sala de Palácio](https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif)](https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif)
+
 ## Classe: Desenvolvedor de Códigos
 </div>
