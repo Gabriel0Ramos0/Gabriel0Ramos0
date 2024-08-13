@@ -1,37 +1,55 @@
-<div align="center">
+<h1 align="center">Saudações, Nobre Visitante!</h1>
 
-## Bem-vindo ao Mundo de Gabriel Ramos 🏰🚀
+###
 
+<h3 align="left">👩‍💻  Quem sou eu?</h3>
+
+###
+
+<p align="left">💻 Futuro Desenvolvedor Full Stack<br>🛠️ Explorando novos "planos" no mundo da programação<br>📚 Sempre aprendendo algo novo e enfrentando desafios<br>🎯 Focado em transformar ideias em realidade através do código</p>
+<p align="left"><b>Sobre mim:</b><br>Sou Gabriel Ramos Corrêa, um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Adoro criar jogos e dar vida a ideias complexas, transformando-as em experiências interativas e imersivas. Quando não estou codificando, você pode me encontrar explorando novas ferramentas, melhorando meus projetos no GitHub, ou jogando algo que me desafie.</p>
+
+###
+
+<h3 align="left">🛠 Linguagens</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   Meus Status :</h3>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel0Ramos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Gabriel0Ramos0&bg_color=000000" height="160" alt="languages graph" />
-
 </div>
 
-##
+###
+
+<h3 align="left">Onde me Encontrar?</h3>
+
+###
 
 <div align="center">
- 
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-</div>  
-
-##
-
-<div align="center">
- 
-  <a href="https://www.instagram.com/gabriel.ramos.correa?igsh=cGRpOXp1NjZ6dGFx" ><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gabriel-ramos-18531a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/gabriel.ramos.correa?igsh=cGRpOXp1NjZ6dGFx" ><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100013524600214" ><img alt="Icone Facebook" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
 </div>
 
-<div align="center">
-
- <img src="https://camo.githubusercontent.com/62fe53c95828fe707e94a19ec3ca053b20d6aeebab3de4fafda8e4ea651c5736/68747470733a2f2f657069636f7270672e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031392f30332f53616c612d64652d70616c25433325413163696f2e676966" alt="Sala de Palácio" data-canonical-src="https://epicorpg.com.br/wp-content/uploads/2019/03/Sala-de-pal%C3%A1cio.gif" style="max-width: 100%;display: inline-block;width: 300px;" data-target="animated-image.originalImage">
-
-## Classe: Desenvolvedor de Códigos
-</div>
+###
