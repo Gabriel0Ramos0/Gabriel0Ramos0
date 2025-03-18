@@ -36,8 +36,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel0Ramos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel0Ramos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="130" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000" height="130" />
 </div>
 
 
