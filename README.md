@@ -2,12 +2,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  Quem sou eu?</h3>
+<h3 align="left">👨‍💻 Quem sou eu?</h3>
 
-###
+<p align="left">
+💻 Desenvolvedor Full Stack em construção<br>
+🛠️ Explorador incansável do universo da programação<br>
+📚 Apaixonado por aprender, evoluir e enfrentar desafios<br>
+🎯 Focado em transformar ideias em soluções e experiências reais
+</p>
 
-<p align="left">💻 Futuro Desenvolvedor Full Stack<br>🛠️ Explorando novos "planos" no mundo da programação<br>📚 Sempre aprendendo algo novo e enfrentando desafios<br>🎯 Focado em transformar ideias em realidade através do código</p>
-<p align="left"><b>Sobre mim:</b><br>Sou Gabriel Ramos Corrêa, um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Adoro criar jogos e dar vida a ideias complexas, transformando-as em experiências interativas e imersivas. Quando não estou codificando, você pode me encontrar explorando novas ferramentas, melhorando meus projetos no GitHub, ou jogando algo que me desafie.</p>
+<p align="left">
+<b>Sobre mim:</b><br>
+Sou <b>Gabriel Ramos Corrêa</b>, desenvolvedor apaixonado por tecnologia e movido por desafios. Minha jornada na programação é impulsionada pela busca constante de conhecimento e pela vontade de transformar conceitos em projetos reais. <br><br>
+Adoro criar sistemas, desenvolver jogos e dar vida a ideias criativas, sempre focando em entregar experiências imersivas, funcionais e bem estruturadas. Fora das linhas de código, estou sempre explorando novas tecnologias, aprimorando meus projetos ou jogando algo que me estimule a pensar estrategicamente.
+</p>
 
 ###
 
