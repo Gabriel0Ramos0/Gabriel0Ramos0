@@ -36,11 +36,11 @@ Git, GitHub, Expo, React Native, Three.js
 
 <table align="center">
   <tr>
-      <td colspan="2" align="center">
-      <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000" alt="profile details" />
+    <td colspan="2" align="center">
+      <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000&locale=pt-br" alt="detalhes do perfil" />
     </td>
     <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0Ramos0&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0Ramos0&layout=compact&langs_count=5&theme=radical&locale=pt-br" alt="gráfico de linguagens" />
     </td>
   </tr>
 </table>
