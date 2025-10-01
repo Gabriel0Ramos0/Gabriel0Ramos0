@@ -19,13 +19,13 @@
 **Frontend:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>  
 
 **Backend & Banco de Dados:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> 
 
 **Outras ferramentas:**  
 Git, GitHub, Expo, React Native, Three.js
@@ -49,7 +49,8 @@ Git, GitHub, Expo, React Native, Three.js
 
 <h3 align="left">🚀 Projetos em Destaque</h3>
 
-- 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) – Jogo espacial 3D feito em React Native + Expo  
+- 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) – Jogo espacial 3D feito em React Native + Expo
+- 📊 [Sistema Mercado online](https://github.com/Gabriel0Ramos0/Sistema-MercadoOnline) - Sistema completo de vendas online
 - 📊 [Sistema de Gestão](link) – Controle de contratos e colaboradores  (Em Breve)
 - 🔧 Confira mais no meu [portfólio](link) (Em Breve)
 
