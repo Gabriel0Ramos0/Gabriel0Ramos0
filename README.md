@@ -51,7 +51,7 @@ Git, GitHub, Expo, React Native, Three.js
 
 - 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) – Jogo espacial 3D feito em React Native + Expo
 - 📊 [Sistema Mercado online](https://github.com/Gabriel0Ramos0/Sistema-MercadoOnline) - Sistema completo de vendas online
-- 📊 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO---Sistema-de-Fluxo-de-Caixa.git) – Controle de contratos e colaboradores
+- 📊 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) – Controle de contratos e colaboradores
 - 🔧 Confira mais no meu [portfólio](link) (Em Breve)
 
 ---
