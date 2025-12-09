@@ -37,10 +37,14 @@ Git, GitHub, Expo, React Native, Three.js
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000&locale=pt-br" alt="detalhes do perfil" />
+      <img width="720" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&bg_color=000000&locale=pt-br" 
+      alt="detalhes do perfil" />
     </td>
     <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0Ramos0&layout=compact&langs_count=5&theme=radical&locale=pt-br" alt="gráfico de linguagens" />
+      <img width="400"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel0ramos0&theme=dracula&v=2"
+      alt="linguagens mais usadas" />
     </td>
   </tr>
 </table>
@@ -52,7 +56,6 @@ Git, GitHub, Expo, React Native, Three.js
 - 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) – Jogo espacial 3D feito em React Native + Expo
 - 📊 [Sistema Mercado online](https://github.com/Gabriel0Ramos0/Sistema-MercadoOnline) - Sistema completo de vendas online
 - 📊 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) – Controle de contratos e colaboradores
-- 🔧 Confira mais no meu [portfólio](link) (Em Breve)
 
 ---
 
