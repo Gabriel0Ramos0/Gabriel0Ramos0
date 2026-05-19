@@ -69,11 +69,6 @@ const gabriel = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gabriel0Ramos0&show_icons=true&theme=dracula&title_color=00c2fc&icon_color=00c2fc&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0Ramos0&layout=compact&theme=dracula&title_color=00c2fc&hide_border=true&locale=pt-br" alt="Top Langs"/>
-
-<br/>
-
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel0Ramos0&theme=dracula&hide_border=true&stroke=00c2fc&ring=00c2fc&fire=ff6b6b&currStreakLabel=00c2fc" alt="GitHub Streak"/>
 
 </div>
