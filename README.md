@@ -65,11 +65,7 @@ const gabriel = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&locale=pt-br" alt="Detalhes do perfil"/>
-
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel0Ramos0&theme=dracula&hide_border=true&stroke=00c2fc&ring=00c2fc&fire=ff6b6b&currStreakLabel=00c2fc" alt="GitHub Streak"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&locale=pt-br" alt="Detalhes do perfil"/>
 
 </div>
 
@@ -102,8 +98,6 @@ const gabriel = {
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gabriel0Ramos0&color=00c2fc&style=for-the-badge&label=Visitantes)
 
 *"Transformando ideias em código, e código em experiências"* ✨
 
