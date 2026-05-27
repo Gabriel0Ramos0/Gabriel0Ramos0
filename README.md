@@ -80,7 +80,7 @@ const gabriel = {
 |---------|-----------|-------------|
 | 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) | Jogo espacial 3D mobile com física e gráficos imersivos | React Native · Expo · Three.js |
 | 📊 [Mercado Online](https://github.com/Gabriel0Ramos0/Sistema-MercadoOnline) | Sistema completo de vendas com backend e banco de dados | Full Stack · MySQL |
-| 🔗 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) | Controle inteligente de contratos e colaboradores | Java · Python |
+| 🔗 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) | Controle inteligente de contratos e colaboradores | HTML, CSS e JS · Python |
 
 ---
 
