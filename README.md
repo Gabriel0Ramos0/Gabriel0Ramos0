@@ -12,60 +12,42 @@
 
 ## Sobre Mim
 
-```javascript
-const gabriel = {
-  role: "Full Stack Developer",
-  passion: ["Game Dev", "3D Experiences", "Problem Solving"],
-  learning: "sempre algo novo",
-  goal: "Transformar ideias em experiências reais",
-  fun_fact: "Acredito que todo bug é só uma feature disfarçada"
-};
-```
+Sou desenvolvedor Full Stack, com foco na criação de aplicações móveis, sistemas eficientes e experiências interativas. Trabalho principalmente com React Native e TypeScript, atuando desde o desenvolvimento de interfaces e integrações com APIs até a organização de dados, lógica de negócio e infraestrutura.
+
+Também gosto de explorar a programação além das aplicações tradicionais, desenvolvendo jogos 3D, experimentando geração procedural e criando projetos que misturam tecnologia e criatividade.
+
+Fora do código, tenho interesse por ficção científica, worldbuilding e inteligência artificial, criando universos, histórias e conceitos tecnológicos próprios. Acredito que programar e construir mundos têm algo em comum: pegar ideias complexas e transformá-las em sistemas que funcionam.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-</p>
+**Frontend & Mobile:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white) 
 
-### Backend & Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-</p>
+**Backend & Dados:**  
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 
-### Ferramentas & Outros
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js"/>
-</p>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) 
 
 ---
 
 ## 🔥 Meus Stats
 
 <div align="center">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&locale=pt-br" alt="Detalhes do perfil"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel0Ramos0&theme=dracula&locale=pt-br" alt="Detalhes do perfil"/>
+</div>
 
 </div>
 
@@ -73,29 +55,23 @@ const gabriel = {
 
 ## Projetos em Destaque
 
-<div align="center">
-</div>
-
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | 🎮 [Galactic Havoc](https://github.com/Gabriel0Ramos0/Galactic-Havoc) | Jogo espacial 3D mobile com física e gráficos imersivos | React Native · Expo · Three.js |
 | 📊 [Mercado Online](https://github.com/Gabriel0Ramos0/Sistema-MercadoOnline) | Sistema completo de vendas com backend e banco de dados | Full Stack · MySQL |
-| 🔗 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) | Controle inteligente de contratos e colaboradores | HTML, CSS e JS · Python |
-
+| 🔗 [VinculaGO](https://github.com/Gabriel0Ramos0/VinculaGO.git) | Controle inteligente de contratos e colaboradores | HTML, CSS, JS · Python |
 ---
 
-## 🌐 Onde me Encontrar?
+## 🌐 Onde me Encontrar
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ramos-18531a259/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.ramos.correa)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013524600214)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.ramos.correa@gmail.com)
-
+  <a href="https://www.linkedin.com/in/gabriel-ramos-18531a259/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/gabriel.ramos.correa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100013524600214"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:gabriel.ramos.correa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
----
+<br>
 
 <div align="center">
 
