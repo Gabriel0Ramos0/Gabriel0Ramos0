@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" fill="none">
+<defs>
+ <linearGradient id="pbg" x1="0" y1="0" x2="1000" y2="330"><stop stop-color="#091711"/><stop offset="1" stop-color="#0C1C15"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="0"><stop stop-color="#3AE98C" stop-opacity="0"/><stop offset=".5" stop-color="#3AE98C" stop-opacity=".65"/><stop offset="1" stop-color="#3AE98C" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1000" height="330" rx="14" fill="url(#pbg)"/>
+<path d="M20 1H980" stroke="url(#edge)"/>
+<text x="34" y="43" fill="#A5FFC5" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">SELECTED WORK</text>
+<text x="34" y="70" fill="#F0FFF5" font-family="Arial,sans-serif" font-size="22" font-weight="700">Projetos em destaque</text>
+<!-- cards -->
+<g>
+ <rect x="26" y="91" width="463" height="98" rx="9" fill="#10251B" stroke="#316747" stroke-opacity=".7"/>
+ <rect x="26" y="91" width="3" height="98" rx="1.5" fill="#56F49A"/>
+ <text x="48" y="122" fill="#E8FFF0" font-family="Arial,sans-serif" font-size="17" font-weight="700">Galactic Havoc</text>
+ <text x="48" y="146" fill="#A4BDAA" font-family="Arial,sans-serif" font-size="12">Jogo espacial 3D mobile • física e ranking online</text>
+ <text x="48" y="169" fill="#69EFA0" font-family="Arial,sans-serif" font-size="11">REACT NATIVE  ·  EXPO  ·  THREE.JS</text>
+ <path d="M454 116l12 12-12 12" stroke="#72F6A7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+ <rect x="511" y="91" width="463" height="98" rx="9" fill="#10251B" stroke="#316747" stroke-opacity=".7"/>
+ <rect x="511" y="91" width="3" height="98" rx="1.5" fill="#56F49A"/>
+ <text x="533" y="122" fill="#E8FFF0" font-family="Arial,sans-serif" font-size="17" font-weight="700">PCInventory</text>
+ <text x="533" y="146" fill="#A4BDAA" font-family="Arial,sans-serif" font-size="12">Inventário e monitoramento de equipamentos</text>
+ <text x="533" y="169" fill="#69EFA0" font-family="Arial,sans-serif" font-size="11">PYTHON  ·  REACT</text>
+ <path d="M939 116l12 12-12 12" stroke="#72F6A7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+ <rect x="26" y="205" width="463" height="98" rx="9" fill="#10251B" stroke="#316747" stroke-opacity=".7"/>
+ <rect x="26" y="205" width="3" height="98" rx="1.5" fill="#56F49A"/>
+ <text x="48" y="236" fill="#E8FFF0" font-family="Arial,sans-serif" font-size="17" font-weight="700">VinculaGO</text>
+ <text x="48" y="260" fill="#A4BDAA" font-family="Arial,sans-serif" font-size="12">Gestão de contratos e colaboradores</text>
+ <text x="48" y="283" fill="#69EFA0" font-family="Arial,sans-serif" font-size="11">HTML  ·  CSS  ·  JAVASCRIPT  ·  PYTHON</text>
+ <path d="M454 230l12 12-12 12" stroke="#72F6A7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+ <rect x="511" y="205" width="463" height="98" rx="9" fill="#10251B" stroke="#316747" stroke-opacity=".7"/>
+ <rect x="511" y="205" width="3" height="98" rx="1.5" fill="#56F49A"/>
+ <text x="533" y="236" fill="#E8FFF0" font-family="Arial,sans-serif" font-size="17" font-weight="700">Mercado Online</text>
+ <text x="533" y="260" fill="#A4BDAA" font-family="Arial,sans-serif" font-size="12">Sistema de vendas e gerenciamento de dados</text>
+ <text x="533" y="283" fill="#69EFA0" font-family="Arial,sans-serif" font-size="11">JAVASCRIPT  ·  MYSQL</text>
+ <path d="M939 230l12 12-12 12" stroke="#72F6A7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
