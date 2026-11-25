@@ -3,17 +3,36 @@
  <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="174" gradientUnits="userSpaceOnUse"><stop stop-color="#07130F"/><stop offset=".55" stop-color="#0B1D16"/><stop offset="1" stop-color="#07110E"/></linearGradient>
  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(430 150 -190 545 850 8)" gradientUnits="userSpaceOnUse"><stop stop-color="#35E887" stop-opacity=".19"/><stop offset="1" stop-color="#35E887" stop-opacity="0"/></radialGradient>
  <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0"><stop stop-color="#39E98B" stop-opacity="0"/><stop offset=".5" stop-color="#68FFAD" stop-opacity=".85"/><stop offset="1" stop-color="#39E98B" stop-opacity="0"/></linearGradient>
+
+ <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+  .twinkle{transform-box:fill-box;transform-origin:center;animation:twinkle 3.8s ease-in-out infinite}
+  .beam{stroke-dasharray:90 520;animation:beam 8s linear infinite;opacity:0}
+  .floatglow{animation:glowPulse 5s ease-in-out infinite}
+  .shieldPulse{transform-box:fill-box;transform-origin:center;animation:shieldPulse 4.8s ease-in-out infinite}
+  @keyframes twinkle{0%,100%{opacity:.18;transform:scale(.65)}45%{opacity:1;transform:scale(1.65)}}
+  @keyframes beam{0%{stroke-dashoffset:610;opacity:0}12%{opacity:.75}58%{opacity:.45}82%,100%{stroke-dashoffset:0;opacity:0}}
+  @keyframes glowPulse{0%,100%{opacity:.65}50%{opacity:1}}
+  @keyframes shieldPulse{0%,100%{filter:drop-shadow(0 0 1px #48f59a)}50%{filter:drop-shadow(0 0 8px #48f59a)}}
+  @media(prefers-reduced-motion:reduce){.twinkle,.beam,.floatglow,.shieldPulse{animation:none!important}}
+ </style>
 </defs>
-<rect width="1000" height="174" rx="14" fill="url(#bg)"/><rect width="1000" height="174" rx="14" fill="url(#glow)"/>
+<rect width="1000" height="174" rx="14" fill="url(#bg)"/><rect class="floatglow" width="1000" height="174" rx="14" fill="url(#glow)"/>
+<g fill="none" stroke="#8BFFC0" stroke-width="1.2" filter="url(#softGlow)">
+ <path class="beam" d="M-30 145L250 -20"/><path class="beam" style="animation-delay:2.7s" d="M610 190L900 -20"/><path class="beam" style="animation-delay:5.1s" d="M760 190L1030 30"/>
+</g>
 <path d="M0 1H1000" stroke="url(#line)" stroke-width="2"/>
 <path d="M0 173H1000" stroke="#4AF49A" stroke-opacity=".22"/>
-<g fill="#A5FFC7"><circle cx="44" cy="40" r="1.4"/><circle cx="91" cy="125" r="1"/><circle cx="176" cy="26" r="1"/><circle cx="810" cy="34" r="1.2"/><circle cx="922" cy="119" r="1.4"/><circle cx="966" cy="62" r=".9"/></g>
+<g fill="#A5FFC7">
+ <circle class="twinkle" cx="44" cy="40" r="1.4"/><circle class="twinkle" style="animation-delay:.8s" cx="91" cy="125" r="1"/><circle class="twinkle" style="animation-delay:1.6s" cx="176" cy="26" r="1"/><circle class="twinkle" style="animation-delay:2.2s" cx="810" cy="34" r="1.2"/><circle class="twinkle" style="animation-delay:1.1s" cx="922" cy="119" r="1.4"/><circle class="twinkle" style="animation-delay:2.8s" cx="966" cy="62" r=".9"/>
+ <circle class="twinkle" style="animation-delay:1.9s" cx="330" cy="19" r=".8"/><circle class="twinkle" style="animation-delay:.4s" cx="570" cy="148" r=".9"/><circle class="twinkle" style="animation-delay:3s" cx="704" cy="91" r=".8"/><circle class="twinkle" style="animation-delay:2.4s" cx="18" cy="91" r=".7"/>
+</g>
 <g opacity=".45" stroke="#4CF39A"><path d="M760 0L650 174"/><path d="M824 0L714 174"/><path d="M888 0L778 174"/></g>
 <text x="54" y="66" fill="#B7FBD0" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">DEVELOPER • BRAZIL</text>
 <text x="52" y="111" fill="#F0FFF5" font-family="Arial,sans-serif" font-size="37" font-weight="700" letter-spacing="-.8">Gabriel Ramos</text>
 <text x="55" y="140" fill="#9AB9A6" font-family="Arial,sans-serif" font-size="15">Full Stack Developer  <tspan fill="#54F49A">/</tspan>  Criando soluções e experiências digitais.</text>
 <!-- discreet shield mark -->
-<g transform="translate(900 48)" stroke="#7CFFB2" stroke-width="2" stroke-linejoin="round">
+<g class="shieldPulse" transform="translate(900 48)" stroke="#7CFFB2" stroke-width="2" stroke-linejoin="round">
  <path d="M0 0L34 9V34C34 54 17 67 17 67S0 54 0 34V0Z" fill="#173D2B" fill-opacity=".7"/>
  <path d="M9 15L17 12L25 15V32C25 43 17 51 17 51S9 43 9 32V15Z" stroke-opacity=".55"/>
  <path d="M17 17V44" stroke-opacity=".7"/>
